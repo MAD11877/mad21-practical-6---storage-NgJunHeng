@@ -1,5 +1,6 @@
 package sg.edu.np.week6practical;
 
+//user class
 public class User {
     private String name;
     private String description;
